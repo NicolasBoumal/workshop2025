@@ -1,0 +1,29 @@
+name: Quarto Pages Build
+
+on:
+  push:
+    branches:
+      - main
+  #pull_request:
+  #  branches:
+  #    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Quarto
+      uses: quarto-dev/quarto-actions/setup@v1
+
+    - name: Render Quarto site
+      run: quarto render --execute --to html --output-dir public
+
+    - name: Upload built pages as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: public
+        path: public
