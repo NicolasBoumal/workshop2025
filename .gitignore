@@ -1,5 +1,5 @@
 /.quarto/
-public/
+docs/
 *.bak
 *.asv
 /site_libs
