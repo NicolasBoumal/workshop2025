@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: public
+  output-dir: docs
   preview:
     port: 4200 # fixed the http port on which the preview website is served
 

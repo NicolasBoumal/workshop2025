@@ -25,10 +25,10 @@ jobs:
         rm quarto-1.5.57-linux-amd64.deb
 
     - name: Render Quarto site
-      run: quarto render --execute --to html --output-dir public
+      run: quarto render --execute --to html --output-dir docs
 
     - name: Upload built pages as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
-        name: public
-        path: public
+        name: docs
+        path: docs
