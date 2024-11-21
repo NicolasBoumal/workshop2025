@@ -1,0 +1,34 @@
+name: Quarto Pages Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install Quarto
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y wget
+        wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.57/quarto-1.5.57-linux-amd64.deb
+        sudo dpkg -i quarto-1.5.57-linux-amd64.deb
+        rm quarto-1.5.57-linux-amd64.deb
+
+    - name: Render Quarto site
+      run: quarto render --execute --to html --output-dir docs
+
+    - name: Upload built pages as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: docs
+        path: docs
