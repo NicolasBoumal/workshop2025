@@ -1,0 +1,12 @@
+---
+Title: "Participants"
+---
+
+## Confirmed participants
+
+* Al Turing
+* Dick Feynman
+* Bernie Russell
+* John "Many words" Doe
+* Leo Kantorovich
+
