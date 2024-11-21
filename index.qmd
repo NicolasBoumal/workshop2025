@@ -17,7 +17,7 @@ We encourage blackboard talks where appropriate---our venue is optimized for tha
 
 The event is by invitation, but feel free to sign up to our [waiting list](https://forms.gle/ZNKZznecJfXsiMRXA).
 
----The organizers: [Nicolas Boumal](https://www.nicolasboumal.net/), [Lénaïc Chizat](https://lchizat.github.io/), [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) and [Andrew McRae](https://admcrae.github.io/).
+The organizers: [Nicolas Boumal](https://www.nicolasboumal.net/), [Lénaïc Chizat](https://lchizat.github.io/), [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) and [Andrew McRae](https://admcrae.github.io/).
 
 ```{=html}
 <br>
