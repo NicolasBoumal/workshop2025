@@ -29,10 +29,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          version: "1.5.57"
           # To install LaTeX to build PDF book 
           # tinytex: true 
-          # uncomment below and fill to pin a version
-          version: "1.5.57"
 
       # NOTE: If Publishing to GitHub Pages, set the permissions correctly (see top of this yaml)
       - name: Publish to GitHub Pages (and render) 
