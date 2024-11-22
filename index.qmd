@@ -1,6 +1,6 @@
 ---
 title: "Optimization unplugged 2025"
-subtitle: "Non-convex landscapes, dynamics and learning, August 25-27 in Lausanne"
+subtitle: "Non-convex landscapes, dynamics and learning, August 25--27 in Lausanne"
 page-layout: full
 title-block-banner: true
 comments: false
