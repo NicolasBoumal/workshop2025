@@ -2,6 +2,9 @@
 Title: "Participants"
 ---
 
+To be announced.
+
+<!--
 ## Confirmed participants
 
 * Al Turing
@@ -9,4 +12,4 @@ Title: "Participants"
 * Bernie Russell
 * John "Many words" Doe
 * Leo Kantorovich
-
+-->
