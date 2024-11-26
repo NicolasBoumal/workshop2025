@@ -23,6 +23,12 @@ The organizers: [Nicolas Boumal](https://www.nicolasboumal.net/), [Lénaïc Chiz
 <br>
 ```
 
+(For information, the 2025 edition of the annual graduate school in mathematical aspects of data science will take place at the same location right afterwards. The [2024 edition](https://maths.anu.edu.au/news-events/events/annual-graduate-school-mathematical-aspects-data-science) took place in Australia.)
+
+```{=html}
+<br>
+```
+
 Program to be announced.
 
 <!--
