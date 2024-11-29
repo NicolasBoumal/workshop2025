@@ -5,11 +5,11 @@ project:
     port: 4200 # fixed the http port on which the preview website is served
 
 website:
-  title: "Optimization Unplugged 2025"
+  title: "Optimization unplugged 2025"
   #favicon: icon.png # generated with https://favicon.io/favicon-generator/
   # draft-mode: unlinked # this is for recent Quarto
   # site-url: "mydomain.xyz"
-  description: "Optimization Unplugged 2025 website"
+  description: "Website of the workshop Optimization unplugged 2025"
   open-graph: true
   navbar:            # More icons here: https://icons.getbootstrap.com/
     left:
