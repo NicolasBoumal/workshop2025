@@ -7,6 +7,8 @@ To be announced.
 <!--
 We are looking forward to welcoming the following researchers:
 
-* [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
 * [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/) (tbc)
+* [Dima Drusvyatskiy](https://sites.google.com/uw.edu/ddrusv/home) (tbc)
+* [Philippe Rigollet](https://math.mit.edu/~rigollet/)
+* [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
 -->
