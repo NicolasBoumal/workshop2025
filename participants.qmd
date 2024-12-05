@@ -5,11 +5,8 @@ Title: "Participants"
 To be announced.
 
 <!--
-## Confirmed participants
+We are looking forward to welcoming the following researchers:
 
-* Al Turing
-* Dick Feynman
-* Bernie Russell
-* John "Many words" Doe
-* Leo Kantorovich
+* [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/)
+* [Afonso Bandeira](https://people.math.ethz.ch/~abandeira/) (tbc)
 -->
