@@ -1,5 +1,5 @@
 ---
-Title: "Participants"
+title: "Participants"
 ---
 
 We are looking forward to welcoming our colleagues.
