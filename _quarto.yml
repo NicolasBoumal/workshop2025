@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Optimization unplugged 2025"
-  #favicon: icon.png # generated with https://favicon.io/favicon-generator/
+  favicon: icon.png # generated with https://favicon.io/favicon-generator/
   # draft-mode: unlinked # this is for recent Quarto
   # site-url: "mydomain.xyz"
   description: "Website of the workshop Optimization unplugged 2025"
