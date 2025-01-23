@@ -33,5 +33,7 @@ Zurich (ZRH) is a couple of hours away by train.
 
 :::
 
-
+<!--
 ![This event takes place on the main EPFL campus. It is sponsored in part by the Swiss State Secretariat for Education, Research and Innovation (SERI) under contract number MB22.00027](logo-epfl-1152x648.png)
+-->
+

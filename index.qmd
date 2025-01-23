@@ -97,3 +97,5 @@ Program to be announced.
 :::{.column-page}
 ![EPFL stands by a lake next to the Alps. You can see the lake and the Mont Blanc from the Bernoulli Center's balconies. ©Istock/VogelSP](epfllandscape.jpg)
 :::
+
+Sponsored in part by the Swiss State Secretariat for Education, Research and Innovation (SERI) under contract number MB22.00027.
